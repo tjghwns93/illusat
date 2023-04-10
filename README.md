@@ -26,4 +26,4 @@ ctrl + alt + 숫자2 --> 풀기(한꺼번에 풀림)
 
 ### pathfinder
 
-![image](https://user-images.githubusercontent.com/129016977/230850829-0e232846-46e6-429c-ab03-39740812731d.png)
+![image](https://user-images.githubusercontent.com/129016977/230851151-f7a0d0c0-9821-4ccd-bde1-aa4f08d73dec.png)
