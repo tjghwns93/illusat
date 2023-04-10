@@ -17,3 +17,9 @@ ctrl + alt + 숫자2 --> 풀기(한꺼번에 풀림)
 ### 🙃 z-index
 
 ![image](https://user-images.githubusercontent.com/129016977/230842248-a300d9dc-3ec4-463b-ab5d-9079da0c6d77.png)
+
+
+### 개체 선택하기
+
+ - 개체 선택 후 shift + 다른 개체 선택 ==> 개체 2가지 이상 선택
+ - 개체 선택 후 shift + 개체 다시 선택 ==> 선택 풀림
