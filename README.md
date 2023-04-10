@@ -23,3 +23,7 @@ ctrl + alt + 숫자2 --> 풀기(한꺼번에 풀림)
 
  - 개체 선택 후 shift + 다른 개체 선택 ==> 개체 2가지 이상 선택
  - 개체 선택 후 shift + 개체 다시 선택 ==> 선택 풀림
+
+### pathfinder
+
+![image](https://user-images.githubusercontent.com/129016977/230850829-0e232846-46e6-429c-ab03-39740812731d.png)
